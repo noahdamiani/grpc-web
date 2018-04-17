@@ -1,7 +1,7 @@
 {
-  "name": "grpc-web-client",
+  "name": "grpc-web-client-bloombox",
   "version": "0.5.0",
-  "description": "gRPC-Web client for browsers (JS/TS)",
+  "description": "gRPC-Web client for browsers (JS/TS), customized for Bloombox",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "github.com/improbable-eng/grpc-web"
+    "url": "github.com/bloombox/grpc-web"
   },
   "keywords": [
     "grpc",
