@@ -1,6 +1,6 @@
 {
   "name": "grpc-web-client-bloombox",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "gRPC-Web client for browsers (JS/TS), customized for Bloombox",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
